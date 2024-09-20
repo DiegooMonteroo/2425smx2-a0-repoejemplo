@@ -28,6 +28,6 @@ Este texto está en *cursiva* y este también está en _cursiva_
 + Elemento 3
 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto
-opcional"
+opcional")
 
-![Homelander]("https://the-boys.fandom.com/wiki/Homelander Titulo opcional de la imagen")
+![Homelander](https://the-boys.fandom.com/wiki/Homelander "Titulo opcional de la imagen")
