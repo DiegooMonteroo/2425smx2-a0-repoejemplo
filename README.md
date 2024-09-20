@@ -30,4 +30,4 @@ Este texto está en *cursiva* y este también está en _cursiva_
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto
 opcional")
 
-![Homelander](https://the-boys.fandom.com/wiki/Homelander "Titulo opcional de la imagen")
+![Homelander](https://github.com/DiegooMonteroo/2425smx2-a0-repoejemplo/blob/main/Homelander.webp "Titulo opcional de la imagen")
