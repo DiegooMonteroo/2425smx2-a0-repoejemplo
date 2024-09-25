@@ -31,3 +31,14 @@ Este texto está en *cursiva* y este también está en _cursiva_
 opcional")
 
 ![Homelander](https://github.com/DiegooMonteroo/2425smx2-a0-repoejemplo/blob/main/Homelander.webp "Titulo opcional de la imagen")
+
+|Columna 1 |Columna 2 |Columna 3|
+|-----------|:----------:|----------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
+
+
+
+
+
